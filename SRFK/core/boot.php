@@ -9,7 +9,7 @@ spl_autoload_register("load_method");
 Register::$config = require(APP_PATH . "WEB-INF/config.php");
 
 // Conectar base de datos
-DB::runDB();
+// DB::runDB();
 
 // Iniciar router principal
 try {
