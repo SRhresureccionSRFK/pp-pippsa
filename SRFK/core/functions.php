@@ -7,10 +7,10 @@ function load_method(string $class): void{
     // Carpetas base donde buscar (por compatibilidad con SRFK clásico)
     $paths = [
         "SRFK/Lib",
-        "SRFK/Core",
+        "SRFK/core",
         "SRFK/Utils",
-        "app/controllers",
-        "app/models"
+        "App/controllers",
+        "App/models"
     ];
 
     foreach ($paths as $path) {
