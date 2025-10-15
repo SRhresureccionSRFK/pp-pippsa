@@ -9,6 +9,6 @@ abstract class Controller {
 
     public function view(string $template, array $vars = []): void {
         extract($vars);
-        include(APP_PATH . "app/views/" . $template . ".phtml");
+        include(APP_PATH . "App/views/" . $template . ".phtml");
     }
 }

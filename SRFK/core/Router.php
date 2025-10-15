@@ -12,7 +12,7 @@ class Router {
         $action = $_GET["action"] ?? $this->config["default_action"];
 
         $controllerName = ucfirst($controller) . "Controller";
-        $controllerPath = APP_PATH . "app/controllers/" . $controllerName . ".php";
+        $controllerPath = APP_PATH . "App/controllers/" . $controllerName . ".php";
 
         if (!file_exists($controllerPath)) {
 //            Response::error(404, "Controller '$controllerName' not found.");
