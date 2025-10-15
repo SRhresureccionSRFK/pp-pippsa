@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/sales/awaitfor/user",
+    "method": "POST",
+    "controller": "Users",
+    "action": "awaitfor",
+    "params": {
+      "id": {
+        "type": "int",
+        "required": true,
+        "min": 1
+      }
+    },
+    "auth_required": true
+  },
+  {
+    "url": "/users/search",
+    "method": "GET",
+    "controller": "Users",
+    "action": "search",
+    "params": {
+      "q": {
+        "type": "slug",
+        "required": true,
+        "max_length": 100
+      },
+      "sort": {
+        "type": "enum",
+        "values": ["name", "created_at"],
+        "required": false
+      }
+    }
+  }
+]

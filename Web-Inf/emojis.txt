@@ -1,0 +1,209 @@
+🧑‍💻 Desarrollo Web / Backend / DevOps
+-------------------------------------
+🧑‍💻 👨‍💻 👩‍💻 – Desarrollador / Programador
+🖥️ 💻 – Computadora / Servidor
+⚙️ 🛠️ 🔧 – Herramientas / Configuración
+🧪 – Pruebas / Experimentación
+📦 – Paquete / Módulo
+📡 – API / Conexión
+🔐 – Seguridad / Autenticación
+🧱 – Estructura / Framework
+📂 – Directorio / Archivos
+📄 – Documento / Configuración
+🧮 – Algoritmo / Lógica
+🧾 – Documentación / Notas
+🧭 – Navegación / Rutas
+💾 – Base de datos / Almacenamiento
+📈 – Métricas / Rendimiento
+🧠 – Inteligencia / Lógica
+🔍 – Búsqueda / Filtro
+🧬 – Desarrollo / Evolución
+🧰 – Caja de herramientas
+
+
+
+
+
+
+🍕 Pizza
+🍔 Hamburguesa
+🌭 Hot Dog
+🍟 Papas fritas
+🥗 Ensalada
+🥙 Wrap / Döner
+🍝 Pasta
+🍣 Sushi
+🍱 Bento
+🥪 Sandwich
+🌮 Taco
+🌯 Burrito
+🥩 Carne / Steak
+🍗 Pollo
+🥓 Tocino
+🥚 Huevo
+🧀 Queso
+🥖 Pan / Baguette
+🍞 Pan de molde
+🥐 Croissant
+🥨 Pretzel
+🥯 Bagel
+🍩 Donut
+🍪 Galleta
+🍫 Chocolate
+🍬 Dulces
+🍭 Paleta
+🧁 Cupcake
+🍰 Pastel
+🎂 Torta de cumpleaños
+🍦 Helado
+🍧 Raspado / Shaved ice
+🍨 Sundae
+🍮 Flan / Pudding
+🍯 Miel
+🥛 Leche
+☕ Café
+🍵 Té
+🧃 Jugo
+🥤 Refresco
+🍾 Champagne
+🍷 Vino
+🍸 Cóctel
+🍹 Bebida tropical
+🍺 Cerveza
+🍻 Chocar vasos
+🥂 Brindis
+🥡 Takeaway / comida para llevar
+🛒 Carrito de compras / e-commerce
+💳 Pago / tarjeta
+🧺 Cesta de compras
+
+
+🛒 Carrito de compras
+💳 Tarjeta de crédito / Pago
+🧾 Factura / Recibo
+🏷️ Etiqueta / Precio
+📦 Paquete / Envío
+📬 Correo / Entrega
+📭 Buzón / Envío recibido
+🚚 Camión de reparto
+📦 Caja / Producto
+🛍️ Bolsa de compras
+🛎️ Campana de notificación
+🏬 Tienda / Retail
+🏪 Tienda 24h
+🛒 Checkout / Caja
+💰 Dinero / Efectivo
+💵 Billetes
+💴 Moneda extranjera
+💶 Euro
+💷 Libra esterlina
+💸 Dinero volando
+💹 Gráfico de ventas
+📊 Estadísticas / Reportes
+📈 Crecimiento / Ventas al alza
+📉 Decrecimiento / Pérdida
+🧾 Lista de pedidos
+📋 Inventario
+🗂️ Archivos / Clientes
+👤 Cliente individual
+👥 Grupo de clientes
+🧑‍🤝‍🧑 Equipo / Staff
+🤝 Acuerdo / Contrato
+📝 Pedido firmado
+📍 Ubicación / Delivery
+📅 Fecha de entrega / calendario
+⏰ Hora de entrega / alarma
+🔖 Marcador / Favoritos
+🏷️ Oferta / Promoción
+🎁 Regalo / Descuento
+🎫 Cupón / Ticket
+🛍️ Compras en línea
+🛒 Ecommerce
+💬 Chat / Soporte
+📞 Llamada de ventas
+📧 Email de clientes
+📝 Feedback / Reseña
+⭐ Valoración / Rating
+🏦 Banco / Pago seguro
+🔒 Pago seguro / Cerradura
+
+
+
+🛒 Carrito de compras
+💳 Tarjeta de crédito / Pago
+🧾 Factura / Recibo
+🏷️ Etiqueta / Precio
+📦 Paquete / Envío
+📬 Correo / Entrega
+📭 Buzón / Envío recibido
+🚚 Camión de reparto
+📦 Caja / Producto
+🛍️ Bolsa de compras
+🛎️ Campana de notificación
+🏬 Tienda / Retail
+🏪 Tienda 24h
+🛒 Checkout / Caja
+💰 Dinero / Efectivo
+💵 Billetes USD
+💴 Billetes JPY
+💶 Billetes EUR
+💷 Billetes GBP
+🪙 Moneda / Cambio
+💸 Dinero volando / gasto
+💹 Gráfico de ventas
+📊 Estadísticas / Reportes
+📈 Crecimiento / Ventas al alza
+📉 Decrecimiento / Pérdida
+🧾 Lista de pedidos
+📋 Inventario
+🗂️ Archivos / Clientes
+👤 Cliente individual
+👥 Grupo de clientes
+🧑‍🤝‍🧑 Equipo / Staff
+🤝 Acuerdo / Contrato
+📝 Pedido firmado
+📍 Ubicación / Delivery
+📅 Fecha de entrega / calendario
+⏰ Hora de entrega / alarma
+🔖 Marcador / Favoritos
+🏷️ Oferta / Promoción
+🎁 Regalo / Descuento
+🎫 Cupón / Ticket
+🛍️ Compras en línea
+🛒 Ecommerce
+💬 Chat / Soporte
+📞 Llamada de ventas
+📧 Email de clientes
+📝 Feedback / Reseña
+⭐ Valoración / Rating
+🏦 Banco / Pago seguro
+🔒 Pago seguro / Cerradura
+💲 Símbolo de dólar
+💱 Cambio de divisas
+💳 Pago electrónico
+💰 Bolsa de dinero
+🪙 Monedas variadas
+💸 Gastos / Dinero volando
+
+
+
+📞 Llamada de ventas
+📱 Teléfono móvil / contacto
+📲 Enviar mensaje / WhatsApp
+💬 Chat / Mensaje
+📝 Pedido / Formulario
+🛒 Ordenar / Checkout
+✅ Confirmar pedido
+❌ Cancelar pedido
+🖱️ Elegir / Click
+👆 Seleccionar
+👇 Indicar / Opción
+📍 Ubicación / Delivery
+🗺️ Mapa / Dirección
+🕒 Hora de entrega / agenda
+📅 Fecha de entrega / calendario
+🏠 Entrega a domicilio
+🏪 Recoger en tienda
+🎯 Prioridad / Destino
+📬 Notificación / Correo
+🛎️ Recordatorio / alerta

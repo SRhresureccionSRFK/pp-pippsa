@@ -1,0 +1,28 @@
+# ------------------------------
+# SRFK++ Advanced .htaccess
+# Plug & Play, URLFriendly, Subfolders, Recursos y Archivos Sueltos automáticos
+# ------------------------------
+
+RewriteEngine On
+RewriteBase /
+
+# --- Bloquear acceso directo a núcleo y config ---
+RewriteRule ^SRFK/ - [F,L,NC]
+RewriteRule ^WEB-INF/ - [F,L,NC]
+
+# --- Recursos públicos con paths limpios ---
+RewriteRule ^css/(.*)$ public/assets/css/$1 [L,NC]
+RewriteRule ^js/(.*)$ public/assets/js/$1 [L,NC]
+RewriteRule ^images/(.*)$ public/assets/images/$1 [L,NC]
+RewriteRule ^downloads/(.*)$ public/assets/downloads/$1 [L,NC]
+
+# --- Si el archivo físico existe, servirlo directamente (archivos sueltos incluidos) ---
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# --- Si es directorio existente, servirlo directo ---
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# --- Redirigir TODO lo demás al Front Controller (index.php) ---
+RewriteRule ^(.*)$ index.php [QSA,L]
